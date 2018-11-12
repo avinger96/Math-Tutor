@@ -1,12 +1,12 @@
 # Math Tutor Version 3
 ______________________________________________________________________________________________________________________________________
 ## Getting Started
-This is a previous program that applied additions and features from Chapter 3(Program 19) and Chapter 4 (Program 8). In chapter 5 (Current Program(Version3)), we will apply additional features and input guidelines to enhance the program.
+This is a previous program that applied additions and features from *Chapter 3(Program 19)* and *Chapter 4 (Program 8)*. In chapter 5 *(Current Program(Version3))*, we will apply additional features and input guidelines to enhance the program.
 
 ______________________________________________________________________________________________________________________________________
 ### Prerequisites
-Math Tutor 1(Chapter 3 Program 18)
-Math Tutor 2(Chapter 4 Program 8)
+**Math Tutor 1(Chapter 3 Program 18)**
+**Math Tutor 2(Chapter 4 Program 8)**
 ______________________________________________________________________________________________________________________________________
 
 ### Installing
